@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "359778615357",
+    "project_id": "clinicsqueue-1",
+    "storage_bucket": "clinicsqueue-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359778615357:android:bcadb3497d480571952a54",
+        "android_client_info": {
+          "package_name": "com.example.cliniq_patient"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6sbu8vsC305YpFpfBPuLhUR-JOpzHAfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
